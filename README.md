@@ -1,14 +1,26 @@
 <h1>Modern UI/UX GPT-3</h1>
 
-<a href="https://master--fascinating-mousse-f095cb.netlify.app/">Live Site</a>
-
+<a href="https://master--fascinating-mousse-f095cb.netlify.app/">Sitio</a>
+<p>Este Proyecto Abarca:</p>
 <ul>
-  <li>React Functional components and their reusability</li>  
-  <li>React file and folder structure</li>  
-  <li>Fundamental CSS properties to master flex & grid</li>  
-  <li>Fundamentals of the CSS BEM Model</li>  
-  <li>From soft and pleasant animations to complex gradients</li>  
-  <li>Perfectly placed media queries for satisfactory responsiveness covering almost devices</li>
+  <li> 
+    ::marker 
+    Componentes funcionales y su reutilización.
+  </li>  
+  <li>
+    ::marker 
+    Estructura de archivos y carpetas 
+  </li>  
+  <li>
+    ::marker 
+    Propiedades CSS fundamentales para dominar flex y grid
+  </li>  
+  <li>
+    ::marker 
+    Desde animaciones suaves y agradables hasta degradados complejos
+  </li>
+    ::marker 
+    Uso de media queries para un sitio responsive que cubre casi todos los dispositivos</li>
 </ul>
 
 
