@@ -4,22 +4,17 @@
 <p>Este Proyecto Abarca:</p>
 <ul>
   <li> 
-    ::marker 
     Componentes funcionales y su reutilización.
   </li>  
   <li>
-    ::marker 
     Estructura de archivos y carpetas 
   </li>  
   <li>
-    ::marker 
     Propiedades CSS fundamentales para dominar flex y grid
   </li>  
   <li>
-    ::marker 
     Desde animaciones suaves y agradables hasta degradados complejos
   </li>
-    ::marker 
     Uso de media queries para un sitio responsive que cubre casi todos los dispositivos</li>
 </ul>
 
